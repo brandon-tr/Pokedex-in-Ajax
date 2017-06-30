@@ -1,0 +1,13 @@
+#side {
+  display: inline-block;
+  position: fixed;
+  margin-left: 100px;
+  padding: 50px;
+  border: 10px solid red;
+  text-align: center;
+}
+
+#images{
+  width: 60%;
+  display: inline-block;
+}
